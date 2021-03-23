@@ -9,7 +9,7 @@ pip install scipydirect
 To install [scipydirect](https://github.com/andim/scipydirectyou) you will need the following prerequisites: python 2.7 or 3.x, a FORTRAN compiler such as gfortran (for example, for Mac OS X: [gcc](https://formulae.brew.sh/formula/gcc#default)), numpy, matplotlib.
 
 ## Datasets
-Four datasets were used: [Adult Income Dataset](https://www.kaggle.com/wenruliu/adult-income-dataset?select=adult.csv), [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing), [COMPAS dataset](https://github.com/propublica/compas-analysis), [KDD Census income dataset](http://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)). They are also available in this repositury, in Adaptive Sensitive Reweighting folder.
+Four datasets were used: [Adult Income Dataset](https://www.kaggle.com/wenruliu/adult-income-dataset?select=adult.csv), [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing), [COMPAS dataset](https://github.com/propublica/compas-analysis), [KDD Census income dataset](http://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)). They are also available in this repository, in Adaptive Sensitive Reweighting folder.
 
 ## Structure
 In the folder AdaFair there is a python implementation of the AdaFair algorithm proposed by [Iosifidis & Ntoutsi](https://dl.acm.org/doi/abs/10.1145/3357384.3357974)
