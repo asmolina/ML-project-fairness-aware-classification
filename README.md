@@ -1,6 +1,8 @@
 # ML-project-fairness-aware-classification
 ML Final Group Project, Fairness-Aware Classification Approaches, Skoltech 2021
 
+[Link to the detailed pdf-report.](https://github.com/asmolina/ML-project-fairness-aware-classification/blob/a4ae1269b8b9c53953d4be2ae36e4f79bdc69ded/Report_Fairness-Aware_Classification.pdf)
+
 ## Requirements
 For Adaptive Sensitive Reweighting model `scipydirect` was used. `scipydirect` - [a python wrapper to the DIRECT algorithm](https://scipydirect.readthedocs.io/en/latest/install.html). The quickest way to install is to type: 
 ```
